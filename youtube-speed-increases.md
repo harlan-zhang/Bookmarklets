@@ -9,7 +9,7 @@ Also, some browsers can exhibit odd sound clipping behaviour.
 
 Sets playback speed to 2.5X:
 <pre> javascript:(function(){document.getElementsByClassName("video-stream html5-main-video")[0].playbackRate = 2.5})(); </pre>
-
+Add to browser: <a href="javascript:(function(){document.getElementsByClassName("video-stream html5-main-video")[0].playbackRate = 2.5})();">YT 2.5X</a>
 
 Sets playback speed to 3X:
 <pre> javascript:(function(){document.getElementsByClassName("video-stream html5-main-video")[0].playbackRate = 3.0})();</pre>
